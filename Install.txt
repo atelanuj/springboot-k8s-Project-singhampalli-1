@@ -2,6 +2,8 @@
 2. Connect to your instance.
 3. Update the packages and package caches you have installed on your instance.
 `
+
+sudo su
 yum update -y
 
 4. Install the latest Docker Engine packages.
